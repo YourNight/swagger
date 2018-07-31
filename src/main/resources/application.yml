@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.liu.springboot.study: warn
